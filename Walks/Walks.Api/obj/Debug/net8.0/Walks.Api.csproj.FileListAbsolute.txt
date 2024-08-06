@@ -102,3 +102,4 @@ E:\Backend\Walks\Walks\Walks.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Work
 E:\Backend\Walks\Walks\Walks.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Backend\Walks\Walks\Walks.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Backend\Walks\Walks\Walks.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Backend\Walks\Walks\Walks.Api\obj\Debug\net8.0\Walks.Api.sourcelink.json
