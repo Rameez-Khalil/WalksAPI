@@ -1,78 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Backend\\Walks\\Walks\\",
+  "WorkspaceRootPath": "E:\\Backend\\Development\\WalksAPI\\Walks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\notes\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\notes\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\notes\\depencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\notes\\depencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\migrations\\20240805001000_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20240805001000_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\notes\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\notes\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\notes\\01_rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\notes\\01_rest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\walks\\walks\\walks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,228 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRegionDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:09:30.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateRegionDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:47:04.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GetRegionsDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
               "RelativeToolTip": "Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:04:43.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DTOs.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DTOs.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Notes\\DTOs.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DTOs.cs",
-              "RelativeToolTip": "Walks.Api\\Notes\\DTOs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:00:18.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionsController.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAAGcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:43:50.95Z",
+              "WhenOpened": "2024-08-07T23:54:56.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Region.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\Domain\\Region.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Region.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\Domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "UpdateRegionDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
+              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:44:52.595Z"
+              "WhenOpened": "2024-08-07T23:54:53.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepencyInjection.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DepencyInjection.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Notes\\DepencyInjection.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DepencyInjection.cs",
-              "RelativeToolTip": "Walks.Api\\Notes\\DepencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionsController.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "Walks.Api\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAA9wJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:14:32.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240805001000_Initial Migration.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Migrations\\20240805001000_Initial Migration.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20240805001000_Initial Migration.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Migrations\\20240805001000_Initial Migration.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\20240805001000_Initial Migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:10:00.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\WeatherForecast.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\WeatherForecast.cs",
-              "RelativeToolTip": "Walks.Api\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:09:15.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DbContext.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Notes\\DbContext.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\DbContext.cs",
-              "RelativeToolTip": "Walks.Api\\Notes\\DbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:51:24.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Walks.Api\\appsettings.json",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\appsettings.json",
-              "RelativeToolTip": "Walks.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-04T23:50:48.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WalksDbContext.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Data\\WalksDbContext.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksDbContext.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Data\\WalksDbContext.cs",
-              "RelativeToolTip": "Walks.Api\\Data\\WalksDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:51:14.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Program.cs",
-              "RelativeToolTip": "Walks.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:06:31.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\Domain\\Walk.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:46:09.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Difficulty.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\Domain\\Difficulty.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Models\\Domain\\Difficulty.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\Domain\\Difficulty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:44:15.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Walks.Api.csproj",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj",
-              "RelativeDocumentMoniker": "Walks.Api\\Walks.Api.csproj",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj",
-              "RelativeToolTip": "Walks.Api\\Walks.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-04T23:43:56.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\StudentsController.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:37:18.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "01_REST.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\01_REST.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Notes\\01_REST.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Notes\\01_REST.cs",
-              "RelativeToolTip": "Walks.Api\\Notes\\01_REST.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T23:32:21.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T21:07:07.798Z"
+              "WhenOpened": "2024-08-07T23:45:31.447Z",
+              "EditorCaption": ""
             }
           ]
         }

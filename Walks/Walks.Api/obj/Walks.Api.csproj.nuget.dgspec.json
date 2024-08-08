@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj": {}
+    "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj": {}
   },
   "projects": {
-    "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj": {
+    "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj",
+        "projectUniqueName": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj",
         "projectName": "Walks.Api",
-        "projectPath": "E:\\Backend\\Walks\\Walks\\Walks.Api\\Walks.Api.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\Backend\\Walks\\Walks\\Walks.Api\\obj\\",
+        "projectPath": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

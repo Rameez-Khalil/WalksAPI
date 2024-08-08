@@ -100,6 +100,66 @@ namespace Walks.Api.Controllers
 
 
         //UPDATE REGION.
+        [HttpPut]
+        [Route("{id:Guid}")]
+        public IActionResult UpdatRegion([FromRoute] Guid id, [FromBody] UpdateRegionDto request)
+        {
+            //Get the region.
+            var regionDomain = dbContext.Regions.Find(id);
+            if (regionDomain != null)
+            {
+                regionDomain.Code = request.Code;
+                regionDomain.Name = request.Name; 
+                regionDomain.RegionImageUrl = request.RegionImageUrl;
+
+                dbContext.SaveChanges();
+
+
+                //map it back to the dto and return the 201 response.
+                var regionUpdatedDto = new GetRegionsDto
+                {
+                    Id = regionDomain.Id,
+                    Name = regionDomain.Name,
+                    Code = regionDomain.Code,
+                    RegionImageUrl = regionDomain.RegionImageUrl
+                };
+
+                return Ok(regionUpdatedDto); 
+
+            }
+
+            return NotFound(); 
+        }
+
+
+        [HttpDelete]
+        [Route("{id:Guid}")]
+
+        public IActionResult DeleteRegion([FromRoute] Guid id)
+        {
+            //Find the object with the provided id.
+            var region = dbContext.Regions.Find(id);
+
+            //if the region is not null, then delete it.
+            if (region != null)
+            {
+                dbContext.Regions.Remove(region); 
+                dbContext.SaveChanges();
+
+                //Convert it into a DTO.
+                var regionDto = new CreateRegionDto
+                {
+                    Name = region.Name,
+                    RegionImageUrl = region.RegionImageUrl,
+                    Code = region.Code
+                };
+
+                return Ok(region); 
+
+            }
+
+            return NotFound(); 
+        }
 
     }
 }
