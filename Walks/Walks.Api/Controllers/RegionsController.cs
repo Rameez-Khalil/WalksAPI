@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using Walks.Api.Data;
 using Walks.Api.Models.Domain;
 using Walks.Api.Models.DTOs;
+using Walks.Api.Repositories;
 
 namespace Walks.Api.Controllers
 {
@@ -12,19 +14,20 @@ namespace Walks.Api.Controllers
     public class RegionsController : ControllerBase
     {
         private readonly WalksDbContext dbContext;
+        private readonly IRegionRepository regionRepository;
 
-        public RegionsController(WalksDbContext dbContext)
+        public RegionsController(IRegionRepository regionRepository)
         {
-            this.dbContext = dbContext;
+            this.regionRepository = regionRepository;
         }
 
 
         //GET ALL REGIONS. 
         [HttpGet]
-        public IActionResult GetAllRegions()
+        public async Task<IActionResult> GetAllRegions()
         {
             //Get all regions.
-            var regions = dbContext.Regions.ToList(); //Domain.
+            var regions = await regionRepository.GetAllRegionsAsync();  //Domain.
 
             //Map domain to DTOs.
             var regionsDto = new List<GetRegionsDto>();
@@ -49,10 +52,10 @@ namespace Walks.Api.Controllers
         [HttpGet]
         [Route("{id:Guid}")]
 
-        public IActionResult GetRegionById([FromRoute]Guid id)
+        public async Task<IActionResult> GetRegionById([FromRoute]Guid id)
         {
             //Domain
-            var region = dbContext.Regions.Find(id);
+            var region = await dbContext.Regions.FindAsync(id);
 
             //Check and return.
             if (region != null)
@@ -72,7 +75,7 @@ namespace Walks.Api.Controllers
 
         //CREATE NEW REGION.
         [HttpPost]
-        public IActionResult CreateRegion([FromBody] CreateRegionDto request)
+        public async Task<IActionResult> CreateRegion([FromBody] CreateRegionDto request)
         {
             //map DTO to domain model.
             var region = new Region
@@ -83,8 +86,8 @@ namespace Walks.Api.Controllers
             };
 
             //use domain model and save changes.
-            dbContext.Regions.Add(region);
-            dbContext.SaveChanges();
+            await dbContext.Regions.AddAsync(region);
+            await dbContext.SaveChangesAsync();
 
             //map this domain object to its DTO and expose the DTO not the Domain object.
             var regionDto = new GetRegionsDto
@@ -102,17 +105,17 @@ namespace Walks.Api.Controllers
         //UPDATE REGION.
         [HttpPut]
         [Route("{id:Guid}")]
-        public IActionResult UpdatRegion([FromRoute] Guid id, [FromBody] UpdateRegionDto request)
+        public async Task<IActionResult> UpdatRegion([FromRoute] Guid id, [FromBody] UpdateRegionDto request)
         {
             //Get the region.
-            var regionDomain = dbContext.Regions.Find(id);
+            var regionDomain = await dbContext.Regions.FindAsync(id);
             if (regionDomain != null)
             {
                 regionDomain.Code = request.Code;
                 regionDomain.Name = request.Name; 
                 regionDomain.RegionImageUrl = request.RegionImageUrl;
 
-                dbContext.SaveChanges();
+                await dbContext.SaveChangesAsync();
 
 
                 //map it back to the dto and return the 201 response.
@@ -135,16 +138,16 @@ namespace Walks.Api.Controllers
         [HttpDelete]
         [Route("{id:Guid}")]
 
-        public IActionResult DeleteRegion([FromRoute] Guid id)
+        public async Task<IActionResult> DeleteRegion([FromRoute] Guid id)
         {
             //Find the object with the provided id.
-            var region = dbContext.Regions.Find(id);
+            var region = await dbContext.Regions.FindAsync(id);
 
             //if the region is not null, then delete it.
             if (region != null)
             {
                 dbContext.Regions.Remove(region); 
-                dbContext.SaveChanges();
+                await dbContext.SaveChangesAsync();
 
                 //Convert it into a DTO.
                 var regionDto = new CreateRegionDto

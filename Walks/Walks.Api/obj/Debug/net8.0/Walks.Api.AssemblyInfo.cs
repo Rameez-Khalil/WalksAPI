@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Walks.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9486d39a302360db787d849164f764cf5adbdcda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb86467b787aa142f6183e5c1d5bdcf7c28242a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Walks.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Walks.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

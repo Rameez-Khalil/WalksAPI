@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\getregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateRegionDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
+              "RelativeToolTip": "Walks.Api\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T00:09:30.003Z",
+              "WhenOpened": "2024-08-09T00:32:14.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetRegionsDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\GetRegionsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:54:56.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateRegionDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
-              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\UpdateRegionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:54:53.234Z",
+              "WhenOpened": "2024-08-09T00:09:44.83Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +62,22 @@
               "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionsController.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "Walks.Api\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAA9wJsAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T23:45:31.447Z",
+              "WhenOpened": "2024-08-09T00:03:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\RegionRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repositories\\RegionRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\RegionRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repositories\\RegionRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:52:02.46Z",
               "EditorCaption": ""
             }
           ]
