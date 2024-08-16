@@ -208,3 +208,4 @@ E:\Backend\Development\WalksAPI\Walks\Walks.Api\obj\Debug\net8.0\refint\Walks.Ap
 E:\Backend\Development\WalksAPI\Walks\Walks.Api\obj\Debug\net8.0\Walks.Api.pdb
 E:\Backend\Development\WalksAPI\Walks\Walks.Api\obj\Debug\net8.0\Walks.Api.genruntimeconfig.cache
 E:\Backend\Development\WalksAPI\Walks\Walks.Api\obj\Debug\net8.0\ref\Walks.Api.dll
+E:\Backend\Development\WalksAPI\Walks\Walks.Api\bin\Debug\net8.0\AutoMapper.dll

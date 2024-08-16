@@ -56,20 +56,12 @@ namespace Walks.Api.Repositories
         }
 
         //CREATE REGION.
-        public async Task<Region> CreateRegionAsync(CreateRegionDto request)
+        public async Task<Region> CreateRegionAsync(Region request)
         {
-            //Map the incoming request into its domain model.
-            var region = new Region
-            {
-                Name = request.Name,
-                RegionImageUrl = request.RegionImageUrl,
-                Code = request.Code,
-            };
-
-            await dbContext.Regions.AddAsync(region);
+            await dbContext.Regions.AddAsync(request);
             await dbContext.SaveChangesAsync(); 
 
-            return region;
+            return request;
         }
 
         //DELETE REGION.

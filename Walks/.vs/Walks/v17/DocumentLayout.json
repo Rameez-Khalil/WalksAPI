@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\models\\dtos\\createregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks\\walks.api\\notes\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1602BD8-458F-4C9D-B639-09E03F4DE11E}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\notes\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
-              "RelativeToolTip": "Walks.Api\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "CreateRegionDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "RelativeToolTip": "Walks.Api\\Models\\DTOs\\CreateRegionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T00:32:14.778Z",
+              "WhenOpened": "2024-08-16T00:30:45.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "Walks.Api\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Walks.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T00:09:44.83Z",
+              "WhenOpened": "2024-08-16T00:22:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomapperProfiles.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Mapping\\AutomapperProfiles.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Mapping\\AutomapperProfiles.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Mapping\\AutomapperProfiles.cs",
+              "RelativeToolTip": "Walks.Api\\Mapping\\AutomapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:18:46.504Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +95,74 @@
               "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionsController.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Controllers\\RegionsController.cs",
               "RelativeToolTip": "Walks.Api\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBgAAAAbAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBMAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T00:03:27.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:09:44.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RegionRepository.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\RegionRepository.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Repositories\\RegionRepository.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Repositories\\RegionRepository.cs",
               "RelativeToolTip": "Walks.Api\\Repositories\\RegionRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T23:52:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Program.cs",
+              "RelativeToolTip": "Walks.Api\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:32:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Walks.Api",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj",
+              "RelativeDocumentMoniker": "Walks.Api\\Walks.Api.csproj",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj",
+              "RelativeToolTip": "Walks.Api\\Walks.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T00:14:14.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Automapper.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Notes\\Automapper.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Notes\\Automapper.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Notes\\Automapper.cs",
+              "RelativeToolTip": "Walks.Api\\Notes\\Automapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:11:31.465Z",
               "EditorCaption": ""
             }
           ]

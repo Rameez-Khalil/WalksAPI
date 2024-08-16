@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QPsyj81T8Zw=",
+  "dgSpecHash": "msGX+EzEaqk=",
   "success": true,
   "projectFilePath": "E:\\Backend\\Development\\WalksAPI\\Walks\\Walks.Api\\Walks.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

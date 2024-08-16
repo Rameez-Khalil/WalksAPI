@@ -9,6 +9,6 @@ namespace Walks.Api.Repositories
         public Task<Region> GetRegionByIdAsync(Guid id);
         public Task<Region> UpdateRegionAsync(Guid id, UpdateRegionDto request);
         public Task<Region> DeleteRegionAsync(Guid id);
-        public Task<Region> CreateRegionAsync(CreateRegionDto request); 
+        public Task<Region> CreateRegionAsync(Region request); 
     }
 }
